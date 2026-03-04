@@ -1,4 +1,4 @@
-# Zendesk ↔ Asana HIPAA-Compliant Integration
+# Zendesk_asana_aws_integration
 AWS Cloudwatch log:
 <img width="943" height="654" alt="image" src="https://github.com/user-attachments/assets/b28cf749-fc54-4105-aaea-372c8cf75a2f" />
 
